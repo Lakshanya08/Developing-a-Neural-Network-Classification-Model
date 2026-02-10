@@ -42,9 +42,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: LAKSHANYA N
 
-### Register Number:
+### Register Number: 212224230136
 
 ```python
 class PeopleClassifier(nn.Module):
